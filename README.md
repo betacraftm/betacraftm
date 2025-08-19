@@ -1,4 +1,4 @@
-### Hi there 👋, I’m Hoàng Ngọc Đạt  
+## Hi there 👋, I’m betacraft
 
 🎓 I’m a 4th-year student majoring in **Computer Engineering** at **Hanoi University of Industry**.  
 🌐 My career goal is to become a **Fullstack Developer** with ReactJS/NextJS (frontend) and Java Spring Boot (backend).  
