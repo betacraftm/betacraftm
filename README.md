@@ -1,9 +1,9 @@
-## Hi there 👋, I’m betacraft
+# Hi there 👋, I’m betacraft
 
 🎓 I’m a 4th-year student majoring in **Computer Engineering** at **Hanoi University of Industry**.  
 🌐 My career goal is to become a **Fullstack Developer** with ReactJS/NextJS (frontend) and Java Spring Boot (backend).  
 
-- 🔭 I’m currently working on personal projects such as **HaUIDOC** (document sharing platform for students) and a **Personal Blog**.
+- 🔭 I’m currently working on personal projects such as **HaUIDOC** (document sharing platform for students).
 - 🌱 I’m currently learning **Spring Boot** and improving my **fullstack development skills**.
 - 👯 I’m looking to collaborate on **student projects, open-source, or freelance opportunities** to gain real-world experience.
 - 🤔 I’m looking for guidance on **backend architecture, database optimization, and scalable web applications**.
