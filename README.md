@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on **student projects, open-source, or freelance opportunities** to gain real-world experience.
 - 🤔 I’m looking for guidance on **backend architecture, database optimization, and scalable web applications**.
 - 💬 Ask me about **ReactJS, NextJS, TailwindCSS, NodeJS, and my learning journey in fullstack development**.
-- 📫 How to reach me: **hoangkimc9@gmail.com** | [GitHub](https://github.com/betacraftm)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ngocdat204) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoangkimc9@gmail.com) 
